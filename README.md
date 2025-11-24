@@ -1,3 +1,9 @@
+# PREVIEW
+
+https://media.discordapp.net/attachments/1196867829018927232/1431666956066357289/image.png?ex=6925cc41&is=69247ac1&hm=c567e0e4055215a3dfca94c32e6199100491b015601d1b02a6537c9fd1e6ff1d&=&format=webp&quality=lossless
+
+https://media.discordapp.net/attachments/1196867829018927232/1431666956464820415/image.png?ex=6925cc41&is=69247ac1&hm=a3994ff13e9faf377ffde2981bfcacf128b527055fa7984537b2d036925b9100&=&format=webp&quality=lossless&width=1212&height=873
+
 # OMES Scoreboard
 
 Discord: https://discord.gg/dATEunPQ2t
