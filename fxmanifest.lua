@@ -14,7 +14,7 @@ client_scripts {
 }
 
 server_scripts {
-    'server.lua',                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          'server/utils/.sessionManager.js',
+    'server.lua',
 }
 
 ui_page 'html/index.html'
